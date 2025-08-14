@@ -16,7 +16,7 @@ Sumora AI is an intelligent presentation analysis tool that leverages AI to auto
 
 ## Demo
 
-[Check out the live demo](#) *(Add your deployed link here when available)*
+[Check out the live demo](https://sumora-247465117015.us-central1.run.app/)
 
 ## Getting Started
 
@@ -85,26 +85,6 @@ Sumora AI is an intelligent presentation analysis tool that leverages AI to auto
    gcloud run deploy sumora --image gcr.io/your-project-id/sumora:latest --platform managed --allow-unauthenticated --set-env-vars "GROQ_API_KEY=your_groq_api_key"
    ```
 
-### Deploying to Heroku
-
-1. Create a Heroku account
-2. Install Heroku CLI
-3. Login to Heroku
-   ```
-   heroku login
-   ```
-4. Create a new Heroku app
-   ```
-   heroku create your-app-name
-   ```
-5. Set environment variables
-   ```
-   heroku config:set GROQ_API_KEY=your_groq_api_key
-   ```
-6. Deploy to Heroku
-   ```
-   git push heroku main
-   ```
 
 ### Deploying to Other Platforms
 
