@@ -2,7 +2,7 @@
 
 Sumora AI is an intelligent presentation analysis tool that leverages AI to automatically generate concise summaries of presentation slides. It helps users quickly understand and extract key points from PDF presentations without having to read through every slide in detail.
 
-![Sumora AI](static/images/Sumora%20Full%20logo.png)
+![Sumora AI](Sumora%20Full%20logo.png)
 
 ## Features
 
@@ -139,4 +139,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-Created by [Kauzway.ai](https://kauzway.ai) 
+Created by [Aneesh Gupta](https://www.linkedin.com/in/aneeshgupta1215/) 
